@@ -1,0 +1,70 @@
+  0%|                                                                                                                                  | 0/124 [00:00<?, ?it/s]/opt/conda/lib/python3.11/site-packages/transformers/trainer.py:3121: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint_rng_state = torch.load(rng_file)
+`loss_type=None` was set in the config but it is unrecognised.Using the default loss: `ForCausalLMLoss`.
+                                                                                                                                                               
+{'loss': 0.0109, 'grad_norm': 0.2960536777973175, 'learning_rate': 2.4596774193548387e-05, 'epoch': 1.02}
+{'loss': 0.0143, 'grad_norm': 0.12567099928855896, 'learning_rate': 2.4193548387096777e-05, 'epoch': 1.03}
+{'loss': 0.0187, 'grad_norm': 0.31428611278533936, 'learning_rate': 2.3790322580645163e-05, 'epoch': 1.05}
+{'loss': 0.0072, 'grad_norm': 0.14547152817249298, 'learning_rate': 2.338709677419355e-05, 'epoch': 1.06}
+{'loss': 0.0094, 'grad_norm': 0.2514665722846985, 'learning_rate': 2.2983870967741935e-05, 'epoch': 1.08}
+{'loss': 0.0037, 'grad_norm': 0.10731764137744904, 'learning_rate': 2.258064516129032e-05, 'epoch': 1.1}
+{'loss': 0.0044, 'grad_norm': 0.10834505409002304, 'learning_rate': 2.217741935483871e-05, 'epoch': 1.11}
+{'loss': 0.0035, 'grad_norm': 0.11600768566131592, 'learning_rate': 2.1774193548387097e-05, 'epoch': 1.13}
+{'loss': 0.01, 'grad_norm': 0.07723452895879745, 'learning_rate': 2.1370967741935487e-05, 'epoch': 1.14}
+{'loss': 0.0093, 'grad_norm': 0.07369126379489899, 'learning_rate': 2.0967741935483873e-05, 'epoch': 1.16}
+{'loss': 0.01, 'grad_norm': 0.07103416323661804, 'learning_rate': 2.056451612903226e-05, 'epoch': 1.18}
+{'loss': 0.0043, 'grad_norm': 0.11996763199567795, 'learning_rate': 2.0161290322580645e-05, 'epoch': 1.19}
+{'loss': 0.0096, 'grad_norm': 0.11983640491962433, 'learning_rate': 1.975806451612903e-05, 'epoch': 1.21}
+{'loss': 0.0105, 'grad_norm': 0.07629314064979553, 'learning_rate': 1.935483870967742e-05, 'epoch': 1.22}
+{'loss': 0.0054, 'grad_norm': 0.12621350586414337, 'learning_rate': 1.8951612903225807e-05, 'epoch': 1.24}
+{'loss': 0.0044, 'grad_norm': 0.13818232715129852, 'learning_rate': 1.8548387096774193e-05, 'epoch': 1.26}
+{'loss': 0.018, 'grad_norm': 1.3456426858901978, 'learning_rate': 1.8145161290322583e-05, 'epoch': 1.27}
+{'loss': 0.0049, 'grad_norm': 0.125075101852417, 'learning_rate': 1.774193548387097e-05, 'epoch': 1.29}
+{'loss': 0.0096, 'grad_norm': 0.07667729258537292, 'learning_rate': 1.733870967741936e-05, 'epoch': 1.3}
+{'loss': 0.0041, 'grad_norm': 0.17487533390522003, 'learning_rate': 1.693548387096774e-05, 'epoch': 1.32}
+{'loss': 0.0097, 'grad_norm': 0.25291869044303894, 'learning_rate': 1.653225806451613e-05, 'epoch': 1.34}
+{'loss': 0.0033, 'grad_norm': 0.14990068972110748, 'learning_rate': 1.6129032258064517e-05, 'epoch': 1.35}
+{'loss': 0.0108, 'grad_norm': 0.14084792137145996, 'learning_rate': 1.5725806451612903e-05, 'epoch': 1.37}
+{'loss': 0.0049, 'grad_norm': 0.7145408987998962, 'learning_rate': 1.5322580645161292e-05, 'epoch': 1.38}
+{'loss': 0.0047, 'grad_norm': 0.17278406023979187, 'learning_rate': 1.4919354838709679e-05, 'epoch': 1.4}
+{'loss': 0.0063, 'grad_norm': 0.20972171425819397, 'learning_rate': 1.4516129032258066e-05, 'epoch': 1.42}
+{'loss': 0.0027, 'grad_norm': 0.1742822527885437, 'learning_rate': 1.4112903225806454e-05, 'epoch': 1.43}
+{'loss': 0.0086, 'grad_norm': 0.12850238382816315, 'learning_rate': 1.3709677419354839e-05, 'epoch': 1.45}
+{'loss': 0.0089, 'grad_norm': 0.0668211579322815, 'learning_rate': 1.3306451612903225e-05, 'epoch': 1.46}
+{'loss': 0.0036, 'grad_norm': 0.11890823394060135, 'learning_rate': 1.2903225806451613e-05, 'epoch': 1.48}
+{'loss': 0.0116, 'grad_norm': 0.43866434693336487, 'learning_rate': 1.25e-05, 'epoch': 1.5}
+{'loss': 0.0092, 'grad_norm': 0.08380546420812607, 'learning_rate': 1.2096774193548388e-05, 'epoch': 1.51}
+{'loss': 0.0075, 'grad_norm': 0.13524077832698822, 'learning_rate': 1.1693548387096775e-05, 'epoch': 1.53}
+{'loss': 0.0016, 'grad_norm': 0.08242648839950562, 'learning_rate': 1.129032258064516e-05, 'epoch': 1.54}
+{'loss': 0.002, 'grad_norm': 0.17915306985378265, 'learning_rate': 1.0887096774193549e-05, 'epoch': 1.56}
+{'loss': 0.0016, 'grad_norm': 0.1135253831744194, 'learning_rate': 1.0483870967741936e-05, 'epoch': 1.58}
+{'loss': 0.0018, 'grad_norm': 0.11618407070636749, 'learning_rate': 1.0080645161290323e-05, 'epoch': 1.59}
+{'loss': 0.001, 'grad_norm': 0.09906374663114548, 'learning_rate': 9.67741935483871e-06, 'epoch': 1.61}
+{'loss': 0.0192, 'grad_norm': 0.08817519247531891, 'learning_rate': 9.274193548387097e-06, 'epoch': 1.62}
+{'loss': 0.002, 'grad_norm': 0.08394753932952881, 'learning_rate': 8.870967741935484e-06, 'epoch': 1.64}
+{'loss': 0.0012, 'grad_norm': 0.11868366599082947, 'learning_rate': 8.46774193548387e-06, 'epoch': 1.66}
+{'loss': 0.0013, 'grad_norm': 0.08269086480140686, 'learning_rate': 8.064516129032258e-06, 'epoch': 1.67}
+{'loss': 0.0032, 'grad_norm': 4.441553115844727, 'learning_rate': 7.661290322580646e-06, 'epoch': 1.69}
+{'loss': 0.0012, 'grad_norm': 0.07093953341245651, 'learning_rate': 7.258064516129033e-06, 'epoch': 1.7}
+{'loss': 0.008, 'grad_norm': 0.07465030252933502, 'learning_rate': 6.854838709677419e-06, 'epoch': 1.72}
+{'loss': 0.0082, 'grad_norm': 0.04424722492694855, 'learning_rate': 6.451612903225806e-06, 'epoch': 1.74}
+{'loss': 0.0086, 'grad_norm': 0.05383254587650299, 'learning_rate': 6.048387096774194e-06, 'epoch': 1.75}
+{'loss': 0.0096, 'grad_norm': 0.06079713627696037, 'learning_rate': 5.64516129032258e-06, 'epoch': 1.77}
+{'loss': 0.0014, 'grad_norm': 0.10643783211708069, 'learning_rate': 5.241935483870968e-06, 'epoch': 1.78}
+{'loss': 0.006, 'grad_norm': 0.246905118227005, 'learning_rate': 4.838709677419355e-06, 'epoch': 1.8}
+{'loss': 0.0007, 'grad_norm': 0.033916302025318146, 'learning_rate': 4.435483870967742e-06, 'epoch': 1.82}
+{'loss': 0.0085, 'grad_norm': 0.08354277163743973, 'learning_rate': 4.032258064516129e-06, 'epoch': 1.83}
+{'loss': 0.0091, 'grad_norm': 0.037231363356113434, 'learning_rate': 3.6290322580645166e-06, 'epoch': 1.85}
+{'loss': 0.0026, 'grad_norm': 0.26579320430755615, 'learning_rate': 3.225806451612903e-06, 'epoch': 1.86}
+{'loss': 0.0013, 'grad_norm': 0.09033884108066559, 'learning_rate': 2.82258064516129e-06, 'epoch': 1.88}
+{'loss': 0.0012, 'grad_norm': 0.0669887512922287, 'learning_rate': 2.4193548387096776e-06, 'epoch': 1.9}
+{'loss': 0.0118, 'grad_norm': 0.2857423722743988, 'learning_rate': 2.0161290322580646e-06, 'epoch': 1.91}
+{'loss': 0.0085, 'grad_norm': 0.0359419509768486, 'learning_rate': 1.6129032258064516e-06, 'epoch': 1.93}
+{'loss': 0.0013, 'grad_norm': 0.07619231939315796, 'learning_rate': 1.2096774193548388e-06, 'epoch': 1.94}
+{'loss': 0.0088, 'grad_norm': 0.11100012063980103, 'learning_rate': 8.064516129032258e-07, 'epoch': 1.96}
+{'loss': 0.0066, 'grad_norm': 0.06355810910463333, 'learning_rate': 4.032258064516129e-07, 'epoch': 1.98}
+{'loss': 0.0016, 'grad_norm': 0.08808371424674988, 'learning_rate': 0.0, 'epoch': 1.99}
+{'train_runtime': 31.8634, 'train_samples_per_second': 31.384, 'train_steps_per_second': 3.892, 'train_loss': 0.0032543544629363404, 'epoch': 1.99}
+[Rank 0] Training finished successfully.
+[Rank 0] Saving final model...
+[Rank 0] Model saved to ./output_model

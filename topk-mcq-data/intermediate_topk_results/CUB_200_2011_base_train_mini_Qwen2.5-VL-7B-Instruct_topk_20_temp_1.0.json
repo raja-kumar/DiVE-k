@@ -1,0 +1,25 @@
+{
+    "Black_Footed_Albatross_0041_796108": {
+        "groundtruth": "black footed albatross",
+        "predictions": {
+            "sooty albatross": 17,
+            "black-footed albatross": 3
+        }
+    },
+    "Black_Footed_Albatross_0071_796113": {
+        "groundtruth": "black footed albatross",
+        "predictions": {
+            "sooty albatross": 18,
+            "black-footed albatross": 1,
+            "black footed albatross": 1
+        }
+    },
+    "Black_Footed_Albatross_0031_100": {
+        "groundtruth": "black footed albatross",
+        "predictions": {
+            "sooty albatross": 16,
+            "laysan albatross": 3,
+            "black-footed albatross": 1
+        }
+    }
+}

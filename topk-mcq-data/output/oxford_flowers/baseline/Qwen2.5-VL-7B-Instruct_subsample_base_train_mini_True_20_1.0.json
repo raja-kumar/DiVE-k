@@ -1,0 +1,22 @@
+{
+    "image_00947": {
+        "groundtruth": "wallflower",
+        "predictions": {
+            "wallflower": 20
+        }
+    },
+    "image_01093": {
+        "groundtruth": "wallflower",
+        "predictions": {
+            "wallflower": 19,
+            "snapdragon": 1
+        }
+    },
+    "image_00949": {
+        "groundtruth": "wallflower",
+        "predictions": {
+            "wallflower": 18,
+            "snapdragon": 2
+        }
+    }
+}

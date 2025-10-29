@@ -1,0 +1,21 @@
+{"time":"2025-07-20T02:21:55.363930673Z","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2025-07-20T02:21:55.363942004Z","level":"INFO","msg":"created symlink","path":"/app/Visual-RFT/src/scripts/demo/wandb/run-20250720_022155-1cfo3m77/logs/debug-core.log"}
+{"time":"2025-07-20T02:21:55.367244364Z","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2025-07-20T02:21:55.371804763Z","level":"INFO","msg":"created new stream","id":"1cfo3m77"}
+{"time":"2025-07-20T02:21:55.371823638Z","level":"INFO","msg":"stream: started","id":"1cfo3m77"}
+{"time":"2025-07-20T02:21:55.37185666Z","level":"INFO","msg":"handler: started","stream_id":{"value":"1cfo3m77"}}
+{"time":"2025-07-20T02:21:55.37185638Z","level":"INFO","msg":"sender: started","stream_id":{"value":"1cfo3m77"}}
+{"time":"2025-07-20T02:21:55.371842934Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"1cfo3m77"}}
+{"time":"2025-07-20T02:21:55.551227762Z","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-07-20T02:21:55.552602218Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-20T02:22:25.971772898Z","level":"INFO","msg":"stream: closing","id":"1cfo3m77"}
+{"time":"2025-07-20T02:22:25.971815078Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-20T02:22:25.972967768Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-20T02:22:26.408994161Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-07-20T02:22:26.409030128Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-07-20T02:22:26.409037943Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-07-20T02:22:26.742972675Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-20T02:22:26.905706189Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"1cfo3m77"}}
+{"time":"2025-07-20T02:22:26.905761863Z","level":"INFO","msg":"sender: closed","stream_id":{"value":"1cfo3m77"}}
+{"time":"2025-07-20T02:22:26.905756634Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"1cfo3m77"}}
+{"time":"2025-07-20T02:22:26.905875867Z","level":"INFO","msg":"stream: closed","id":"1cfo3m77"}
