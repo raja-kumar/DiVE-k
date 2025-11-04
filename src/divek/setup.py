@@ -61,7 +61,8 @@ _deps = [
     "safetensors>=0.3.3",
     "sentencepiece>=0.1.99",
     "torch>=2.5.1",
-    "transformers @ git+https://github.com/huggingface/transformers.git@main",
+    # "transformers @ git+https://github.com/huggingface/transformers.git@main",
+    # "transformers @ git+https://github.com/huggingface/transformers.git@8ee50537fe7613b87881cd043a85971c85e99519",
     "trl @ git+https://github.com/huggingface/trl.git@main",
     "vllm==0.6.6.post1",
     "wandb>=0.19.1",
@@ -101,7 +102,7 @@ install_requires = [
     deps["packaging"],  # utilities from PyPA to e.g., compare versions
     deps["safetensors"],
     deps["sentencepiece"],
-    deps["transformers"],
+    # deps["transformers"],
     deps["trl"],
 ]
 
