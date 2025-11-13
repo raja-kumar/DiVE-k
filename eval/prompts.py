@@ -28,6 +28,11 @@ PROMPTS = {
         "instruction": "output the most likely human action in the image.",
         "answer_format": "action name",
         "data_name": "human action",
+    },
+    "sample_datasets": {
+        "instruction": "output the most likely species name in the image.",
+        "answer_format": "species name",
+        "data_name": "bird",
     }
 }
 

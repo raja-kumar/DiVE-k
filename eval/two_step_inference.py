@@ -16,8 +16,8 @@ from PIL import Image
 from tqdm import tqdm
 from transformers import AutoModel, AutoTokenizer
 from transformers import (AutoModelForCausalLM, AutoTokenizer,
-                          StoppingCriteria, StoppingCriteriaList,)
-                        #   Gemma3ForConditionalGeneration, Gemma3Processor)
+                          StoppingCriteria, StoppingCriteriaList,
+                          Gemma3ForConditionalGeneration, Gemma3Processor)
 from transformers.generation import GenerationConfig
 from peft import PeftModel
 torch.manual_seed(1234)
@@ -197,10 +197,6 @@ def run(rank, world_size, args):
         data_json_path = f"{DATA_ROOT}/{dataset}/zero_shot/subsample_{split}.json"
         category_file = f"{DATA_ROOT}/{dataset}/zero_shot/{split_name}_categories.txt"
     
-    # zero_shot_json_path = f"{DATA_ROOT}/{dataset}/zero_shot/subsample_{split}.json"
-
-     
-    # category_file = f"{DATA_ROOT}/{dataset}/zero_shot/{split_name}_categories.txt"
 
     with open(category_file, 'r') as f:
         categories = f.read().splitlines()
@@ -214,8 +210,8 @@ def run(rank, world_size, args):
             attn_implementation="flash_attention_2",
             device_map="cpu",
         )
-        # processor = AutoProcessor.from_pretrained(model_base)
         processor = Gemma3Processor.from_pretrained(model_base)
+        # raise NotImplementedError("gemma-3 model loading not implemented yet.")
     else:
         model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
             model_path,
@@ -344,10 +340,6 @@ def run(rank, world_size, args):
                 return_tensors="pt",
             )
 
-            # inputs = processor.apply_chat_template(
-            #         messages, add_generation_prompt=True, tokenize=True,
-            #         return_dict=True, return_tensors="pt", do_pan_and_scan=True
-            # )
         else:
             messages = [
                 {

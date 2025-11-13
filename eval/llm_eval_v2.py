@@ -26,7 +26,7 @@ class AccuracyEvaluator:
             base_url="https://openrouter.ai/api/v1",
             api_key=api_key,
         )
-        self.model = "google/gemini-flash-1.5"
+        self.model = "google/gemini-2.5-flash-lite-preview-06-17"
         self.one_step = one_step
         self.eval_topk = eval_topk
 

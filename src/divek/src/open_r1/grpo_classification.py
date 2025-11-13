@@ -24,7 +24,7 @@ from datasets import DatasetDict
 
 from math_verify import parse, verify
 # from open_r1.trainer import Qwen2VLGRPOTrainer
-from open_r1.trainer import Qwen2VLGRPOTrainer, Qwen2VLGRPOVLLMTrainer #, Gemma3GRPOTrainer
+from open_r1.trainer import Qwen2VLGRPOTrainer, Qwen2VLGRPOVLLMTrainer , Gemma3GRPOTrainer
 from trl import GRPOConfig, GRPOTrainer, ModelConfig, ScriptArguments, TrlParser, get_peft_config
 
 import json
@@ -105,8 +105,8 @@ def main(script_args, training_args, model_args):
     
     trainer_cls = Qwen2VLGRPOTrainer if not training_args.use_vllm else Qwen2VLGRPOVLLMTrainer
 
-    # if "gemma-3" in model_args.model_name_or_path.lower():
-    #     trainer_cls = Gemma3GRPOTrainer
+    if "gemma-3" in model_args.model_name_or_path.lower():
+        trainer_cls = Gemma3GRPOTrainer
     print("using: ", trainer_cls)
 
 

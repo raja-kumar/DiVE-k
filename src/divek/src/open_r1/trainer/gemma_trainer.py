@@ -171,7 +171,7 @@ class Gemma3GRPOTrainer(Trainer):
             model_init_kwargs["use_cache"] = (
                 False if args.gradient_checkpointing else model_init_kwargs.get("use_cache")
             )
-            model_init_kwargs["torch_dtype"] = torch.bfloat16
+            # model_init_kwargs["torch_dtype"] = torch.bfloat16
             if "gemma-3" in model_id:
                 # Use Gemma3ForConditionalGeneration for Gemma 3 models
                 model_init_kwargs.pop("use_cache")
