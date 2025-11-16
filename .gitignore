@@ -1,5 +1,5 @@
 logs/
-intern_vl_exps/__pycache__/
+intern_vl_exps/
 output/
 eval/output
 eval/__pycache__/

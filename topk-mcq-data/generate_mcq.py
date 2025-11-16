@@ -267,7 +267,7 @@ class TopkArgs:
         self.split = f"{mcq_args.split}_{mcq_args.phase}"
         self.num_return_sequences = 20
         self.temperature = 1.0
-        self.max_new_tokens = 512
+        self.max_new_tokens = 1024
 
 def create_topk_args(mcq_args):
     """
@@ -320,6 +320,10 @@ def main():
             )
         
         output_path = f"{args.data_root}/{args.data}/qwen_mcq/subsample_{args.split}_{args.phase}_pass_20_all_mcq.json"
+
+        if ("gemma" in topk_args.base_model.lower()):
+            print("Using Gemma model")
+            output_path = f"{args.data_root}/{args.data}/gemma_mcq/subsample_{args.split}_{args.phase}_pass_20_all_mcq.json"
         
     elif args.mcq_type == "gemini":
         top5_pred_file = f"/home/raja/OVOD/git_files/VLM-COT/outputs/{args.data}/{args.data}_step1_baseline_{args.split}_{args.phase}_gemini-2.5-flash-lite-preview-06-17_cat_True.json"

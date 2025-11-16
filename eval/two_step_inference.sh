@@ -1,9 +1,9 @@
 #!/bin/bash
 
-MODEL_ROOT="/app/saved_models/vrft/fgvc_aircraft"  # root path for saved models
+MODEL_ROOT="/app/saved_models/vrft/CUB_200_2011/"  # root path for saved models
 # BASE_MODEL="Qwen/Qwen2.5-VL-7B-Instruct"
 BASE_MODEL="google/gemma-3-12b-it"
-CHECKPOINT="checkpoint-400"  # checkpoint name for saved models
+CHECKPOINT="checkpoint-1199"  # checkpoint name for saved models
 
 
 # ==== configurations ====
@@ -20,7 +20,7 @@ max_new_tokens=1024
 
 splits=("base_val" "new_val")  # splits to evaluate on
 num_return_sequences=(20)  # number of sequences to return
-EXP_NAMES=("baseline") #folder name where model checkpoints are saved. baseline for base model evaluation
+EXP_NAMES=("gemma-3-12B_GRPO_cub_base_gemma_mcq") #folder name where model checkpoints are saved. baseline for base model evaluation
 # datasets=("CUB_200_2011" "oxford-iiit-pet" "stanford_cars" "fgvc_aircraft")  # datasets to evaluate on
 datasets=("CUB_200_2011")
 
