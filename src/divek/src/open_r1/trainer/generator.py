@@ -109,7 +109,6 @@ class TopKGenerator:
                 generated_ids, input_id_length, num_sequences, self.processing_class, answer_format
             )
 
-            print(curr_pred)
             prompt, answer = self.generate_mcq(curr_pred, gt)
 
             model_prompt = [
