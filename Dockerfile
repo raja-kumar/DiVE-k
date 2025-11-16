@@ -23,7 +23,7 @@ RUN bash setup.sh
 
 RUN pip install deepspeed==0.16.3
 
-RUN pip install trl==0.16.0 && pip install json_repair && pip install matplotlib && pip install peft && pip install math_verify && pip install --upgrade wandb
+RUN pip install trl==0.16.0 && pip install json_repair && pip install matplotlib && pip install peft==0.17.1 && pip install math_verify && pip install --upgrade wandb
 
 RUN pip install git+https://github.com/huggingface/transformers.git@8ee50537fe7613b87881cd043a85971c85e99519
 
