@@ -1,7 +1,7 @@
 #!/bin/bash
 
 MODEL_ROOT="/app/saved_models/vrft/ckpts/"  # root path for saved models
-BASE_MODEL="Qwen/Qwen2.5-VL-7B-Instruct"
+BASE_MODEL="google/gemma-3-4b-it"
 CHECKPOINT="checkpoint-291"  # checkpoint name for saved models
 
 
@@ -18,8 +18,8 @@ temperature=1.0
 max_new_tokens=1024  # maximum number of new tokens to generate`
 
 # datasets=("oxford_flowers" "CUB_200_2011" "oxford-iiit-pet" "stanford_cars" "fgvc_aircraft")  # datasets to evaluate on
-datasets=("oxford_flowers")
-splits=("base_train_mini")  # splits to evaluate on
+datasets=("CUB_200_2011")
+splits=("base_train")  # splits to evaluate on
 num_return_sequences=(20)  # number of sequences to return
 EXP_NAMES=("baseline")
 

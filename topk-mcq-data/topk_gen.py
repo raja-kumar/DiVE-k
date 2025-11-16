@@ -15,8 +15,8 @@ from transformers import (
     AutoModelForCausalLM, 
     AutoProcessor, 
     Qwen2_5_VLForConditionalGeneration, 
-    Qwen2VLForConditionalGeneration
-    # Gemma3ForConditionalGeneration, Gemma3Processor  # Uncomment if using
+    Qwen2VLForConditionalGeneration,
+    Gemma3ForConditionalGeneration, Gemma3Processor 
 )
 from qwen_vl_utils import process_vision_info
 from prompts import PROMPTS
@@ -106,14 +106,14 @@ def prepare_model_and_processor(model_base, model_path):
         )
         print(GREEN + "Using Phi-3.5 model" + RESET)
     elif "gemma-3" in model_base:
-        # model = Gemma3ForConditionalGeneration.from_pretrained(
-        #     model_path,
-        #     torch_dtype=torch.bfloat16,
-        #     attn_implementation="flash_attention_2",
-        #     device_map="cpu",
-        # )
-        # processor = Gemma3Processor.from_pretrained(model_base)
-        raise NotImplementedError("Gemma-3 support not implemented in this script.")
+        model = Gemma3ForConditionalGeneration.from_pretrained(
+            model_path,
+            torch_dtype=torch.bfloat16,
+            attn_implementation="flash_attention_2",
+            device_map="cpu",
+        )
+        processor = Gemma3Processor.from_pretrained(model_base)
+        # raise NotImplementedError("Gemma-3 support not implemented in this script.")
     else:
         model = Qwen2VLForConditionalGeneration.from_pretrained(
             model_path,
@@ -154,7 +154,29 @@ def prepare_inputs(item, question, model_base, processor, DATA_ROOT, dataset):
         prompt = processor.tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
         inputs = processor(prompt, images, return_tensors="pt")
     elif "gemma-3" in model_base:
-        raise NotImplementedError("Gemma-3 support not implemented in this script.")
+        query = "<image>\n"+question
+        messages = [
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "image"},
+                        {"type": "text", "text": question}
+                    ]
+                }
+            ]
+        prompts_text = processor.tokenizer.apply_chat_template(
+            messages, 
+            tokenize=False, 
+            add_generation_prompt=True
+        )
+
+        image_raw = Image.open(image_path).convert("RGB").resize((896, 896))
+        inputs = processor(
+            text=prompts_text,
+            images=image_raw,
+            return_tensors="pt",
+        )
+        # raise NotImplementedError("Gemma-3 support not implemented in this script.")
     else:
         query = "<image>\n" + question
         messages = [{
