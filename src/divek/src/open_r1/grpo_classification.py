@@ -24,7 +24,7 @@ from datasets import DatasetDict
 
 from math_verify import parse, verify
 # from open_r1.trainer import Qwen2VLGRPOTrainer
-from open_r1.trainer import Qwen2VLGRPOTrainer, Qwen2VLGRPOVLLMTrainer , Gemma3GRPOTrainer
+from open_r1.trainer import Qwen2VLGRPOTrainer, Qwen2VLGRPOVLLMTrainer #, Gemma3GRPOTrainer
 from trl import GRPOConfig, GRPOTrainer, ModelConfig, ScriptArguments, TrlParser, get_peft_config
 
 import json
@@ -72,6 +72,18 @@ class GRPOScriptArguments(ScriptArguments):
     freeze_text: bool = field(
         default=False,
         metadata={"help": "Whether to freeze the text tower during training."},
+    )
+    data_name: Optional[str] = field(
+        default="oxford_flowers", # potential options: oxford_flowers, oxford-iiit-pets, stanford_cars, fgvc_aircraft, CUB_200_2011
+        metadata={"help": "Path to the training dataset."},
+    )
+    class_to_idx_path: Optional[str] = field(
+        default="/data2/datasets/oxford_flowers/class_2_idx.json",
+        metadata={"help": "Path to the class to index mapping JSON file."},
+    )
+    category_names_path: Optional[str] = field(
+        default="/data2/datasets/oxford_flowers/zero_shot/base_categories.txt",
+        metadata={"help": "Path to the category names text file."},
     )
 
 reward_funcs_registry = {
@@ -123,6 +135,9 @@ def main(script_args, training_args, model_args):
         min_pixels=script_args.min_pixels,
         freeze_vision_tower=script_args.freeze_vision_tower,
         freeze_text=script_args.freeze_text,
+        class_to_idx_path=script_args.class_to_idx_path,
+        data_name=script_args.data_name,
+        category_names_path=script_args.category_names_path,
     )
 
     # Train and push the model to the Hub

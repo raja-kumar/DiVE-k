@@ -49,7 +49,8 @@ from trl.trainer.grpo_config import GRPOConfig
 from trl.trainer.utils import generate_model_card, get_comet_experiment_url
 
 import copy
-
+from open_r1.trainer.generator import TopKGenerator
+import json
 
 if is_peft_available():
     from peft import PeftConfig, get_peft_model
@@ -163,6 +164,9 @@ class Qwen2VLGRPOTrainer(Trainer):
         attn_implementation: str = "flash_attention_2",
         freeze_vision_tower: bool = False,
         freeze_text: bool = False,
+        data_name: str = None,
+        class_to_idx_path: str = None,
+        category_names_path: str = None,
     ):
         # Args
         if args is None:
@@ -237,7 +241,6 @@ class Qwen2VLGRPOTrainer(Trainer):
                     "--- The model does not have a vision tower so nothing left to train if text is frozen. ----"
                 )
 
-
         # Reference model
         if is_deepspeed_zero3_enabled():
             if "Qwen2-VL" in model_id:
@@ -269,6 +272,12 @@ class Qwen2VLGRPOTrainer(Trainer):
             else:
                 processing_class = AutoTokenizer.from_pretrained(model.config._name_or_path, padding_side="left")
                 pad_token_id = processing_class.pad_token_id
+        
+        # setup for topk generation
+        with open(class_to_idx_path, 'r') as f:
+            self.class_to_idx = json.load(f)
+        self.data_name = data_name
+        self.topk_generator = TopKGenerator(class_to_idx=self.class_to_idx, data_name=self.data_name, processing_class=processing_class, category_names_path=category_names_path)
 
         # Reward functions
         if not isinstance(reward_funcs, list):
@@ -386,10 +395,14 @@ class Qwen2VLGRPOTrainer(Trainer):
     def compute_loss(self, model, inputs, return_outputs=False, num_items_in_batch=None):
         if return_outputs:
             raise ValueError("The GRPOTrainer does not support returning outputs")
+        
+        # Run generator to get topk options
+        inputs_copy = copy.deepcopy(inputs)
+        topk_prompts, topk_solutions = self.topk_generator.get_topk(model, inputs_copy)
 
-        prompts = [x["prompt"] for x in inputs]
-        prompts_text = [maybe_apply_chat_template(example, self.processing_class)["prompt"] for example in inputs]
-        images = [x["image"] for x in inputs]
+        prompts = [x["prompt"] for x in inputs_copy]
+        prompts_text = [maybe_apply_chat_template(example, self.processing_class)["prompt"] for example in inputs_copy]
+        images = [x["image"] for x in inputs_copy]
         prompt_inputs = self.processing_class(
             text=prompts_text,
             images=images,
@@ -448,7 +461,7 @@ class Qwen2VLGRPOTrainer(Trainer):
 
         # Decode the generated completions
         completions = self.processing_class.batch_decode(completion_ids, skip_special_tokens=True)
-        if is_conversational(inputs[0]):
+        if is_conversational(inputs_copy[0]):
             completions = [[{"role": "assistant", "content": completion}] for completion in completions]
         
         # print(completions)
@@ -460,7 +473,7 @@ class Qwen2VLGRPOTrainer(Trainer):
             zip(self.reward_funcs, self.reward_processing_classes)
         ):
             if isinstance(reward_func, PreTrainedModel):
-                if is_conversational(inputs[0]):
+                if is_conversational(inputs_copy[0]):
                     messages = [{"messages": p + c} for p, c in zip(prompts, completions)]
                     texts = [apply_chat_template(x, reward_processing_class)["text"] for x in messages]
                 else:
@@ -473,9 +486,9 @@ class Qwen2VLGRPOTrainer(Trainer):
                     rewards_per_func[:, i] = reward_func(**reward_inputs).logits[:, 0]  # Shape (B*G,)
             else:
                 # Repeat all input columns (but "prompt" and "completion") to match the number of generations
-                reward_kwargs = {key: [] for key in inputs[0].keys() if key not in ["prompt", "completion"]}
+                reward_kwargs = {key: [] for key in inputs_copy[0].keys() if key not in ["prompt", "completion"]}
                 for key in reward_kwargs:
-                    for example in inputs:
+                    for example in inputs_copy:
                         # Repeat each value in the column for `num_generations` times
                         reward_kwargs[key].extend([example[key]] * self.num_generations)
                 output_reward_func = reward_func(prompts=prompts, completions=completions, **reward_kwargs)
