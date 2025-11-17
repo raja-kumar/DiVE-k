@@ -396,9 +396,26 @@ class Qwen2VLGRPOTrainer(Trainer):
         if return_outputs:
             raise ValueError("The GRPOTrainer does not support returning outputs")
         
+        # make copy  of input to avoid overwriting original data. avoid image deepcopy for efficiency
+        inputs_copy = []
+        for example in inputs:
+            ex_copy = example.copy()  # shallow copy of the dict
+
+            # Deep copy only the fields that topk_generator mutates
+            if "prompt" in ex_copy:
+                ex_copy["prompt"] = copy.deepcopy(ex_copy["prompt"])
+            if "solution" in ex_copy:
+                ex_copy["solution"] = copy.deepcopy(ex_copy["solution"])
+
+            # IMPORTANT: do NOT deepcopy the image; keep the same reference
+            # If you want to be explicit:
+            if "image" in example:
+                ex_copy["image"] = example["image"]
+
+            inputs_copy.append(ex_copy)
+        
         # Run generator to get topk options
-        inputs_copy = copy.deepcopy(inputs)
-        topk_prompts, topk_solutions = self.topk_generator.get_topk(model, inputs_copy)
+        topk_prompts, topk_solutions = self.topk_generator.get_topk(model, inputs_copy, self.accelerator)
 
         prompts = [x["prompt"] for x in inputs_copy]
         prompts_text = [maybe_apply_chat_template(example, self.processing_class)["prompt"] for example in inputs_copy]

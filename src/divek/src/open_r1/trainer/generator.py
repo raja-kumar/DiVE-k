@@ -1,8 +1,6 @@
-## get model, input
-## use the model and input to sample k outputs
-## use sampled output to genrate mcq options
 from open_r1.trainer.prompts import PROMPTS, prompts
 from trl.data_utils import apply_chat_template, is_conversational, maybe_apply_chat_template
+from trl.models import create_reference_model, prepare_deepspeed, unwrap_model_for_generation
 import re
 import json
 import random
@@ -65,7 +63,7 @@ class TopKGenerator:
         return prompt, f"<answer>{answer_letter}</answer>"
 
 
-    def get_topk(self, model, inputs):        
+    def get_topk(self, model, inputs, accelerator=None):        
 
         generation_args = {
                 "max_new_tokens": 1024,
@@ -79,53 +77,61 @@ class TopKGenerator:
         
         solutions = []
         prompts = []
-        for input_ in inputs:
-            input_["prompt"] = self.promt_inputs
 
-            image = [input_["image"]]
-            gt = input_["solution"]
+        if accelerator is not None:
+            gen_ctx = unwrap_model_for_generation(model, accelerator)
+        else:
+            # fallback if you call this standalone
+            from contextlib import nullcontext
+            gen_ctx = nullcontext(model)
 
+        with gen_ctx as gen_model:
+            for input_ in inputs:
+                input_["prompt"] = self.promt_inputs
 
-            prompts_text = [maybe_apply_chat_template(input_, self.processing_class)["prompt"]]
+                image = [input_["image"]]
+                gt = input_["solution"]
 
-            inputs = self.processing_class(
-                text=prompts_text,
-                images=image,
-                return_tensors="pt",
-                padding=True,
-                padding_side="left",
-                add_special_tokens=False,
-            )
+                prompts_text = [maybe_apply_chat_template(input_, self.processing_class)["prompt"]]
 
-            inputs = inputs.to(model.device)
+                batch_inputs = self.processing_class(
+                    text=prompts_text,
+                    images=image,
+                    return_tensors="pt",
+                    padding=True,
+                    padding_side="left",
+                    add_special_tokens=False,
+                ).to(gen_model.device)
 
-            with torch.no_grad():
-                generated_ids = model.generate(**inputs, **generation_args)
-            
-            input_id_length = inputs.input_ids.shape[1]
-            num_sequences = generation_args["num_return_sequences"]
-            answer_format = PROMPTS[self.data_name]["answer_format"]
-            curr_pred = process_generated_output(
-                generated_ids, input_id_length, num_sequences, self.processing_class, answer_format
-            )
+                with torch.no_grad():
+                    generated_ids = gen_model.generate(**batch_inputs, **generation_args)
 
-            print(curr_pred)
-            prompt, answer = self.generate_mcq(curr_pred, gt)
+                input_id_length = batch_inputs.input_ids.shape[1]
+                num_sequences = generation_args["num_return_sequences"]
+                answer_format = PROMPTS[self.data_name]["answer_format"]
+                curr_pred = process_generated_output(
+                    generated_ids,
+                    input_id_length,
+                    num_sequences,
+                    self.processing_class,
+                    answer_format,
+                )
 
-            model_prompt = [
-                {
-                    "role": "user",
-                    "content": [
-                        {"type": "image"},
-                        {"type": "text", "text": prompt},
-                    ],
-                },
-            ]
+                prompt, answer = self.generate_mcq(curr_pred, gt)
+                model_prompt = [
+                    {
+                        "role": "user",
+                        "content": [
+                            {"type": "image"},
+                            {"type": "text", "text": prompt},
+                        ],
+                    },
+                ]
 
-            input_["prompt"] = model_prompt
-            input_["solution"] = answer
-            
-            solutions.append(answer)
-            prompts.append(model_prompt)
+                input_["prompt"] = model_prompt
+                input_["solution"] = answer
+
+                solutions.append(answer)
+                prompts.append(model_prompt)
         
         return prompts, solutions
