@@ -1,9 +1,9 @@
 #!/bin/bash
 
-MODEL_ROOT="/app/saved_models/vrft/CUB_200_2011/"  # root path for saved models
-# BASE_MODEL="Qwen/Qwen2.5-VL-7B-Instruct"
-BASE_MODEL="google/gemma-3-12b-it"
-CHECKPOINT="checkpoint-1199"  # checkpoint name for saved models
+MODEL_ROOT="/app/saved_models/vrft/oxford_flowers/"  # root path for saved models
+BASE_MODEL="Qwen/Qwen2.5-VL-7B-Instruct"
+# BASE_MODEL="google/gemma-3-12b-it"
+CHECKPOINT="checkpoint-399"  # checkpoint name for saved models
 
 
 # ==== configurations ====
@@ -18,11 +18,11 @@ DATA_ROOT="/data2/raja/"
 temperature=1.0
 max_new_tokens=1024
 
-splits=("base_val" "new_val")  # splits to evaluate on
+splits=("base_val" "new_test")  # splits to evaluate on
 num_return_sequences=(20)  # number of sequences to return
-EXP_NAMES=("gemma-3-12B_GRPO_cub_base_gemma_mcq") #folder name where model checkpoints are saved. baseline for base model evaluation
+EXP_NAMES=("Qwen2_5-VL-7B-Instruct_GRPO_flowers_base_e_2_e") #folder name where model checkpoints are saved. baseline for base model evaluation
 # datasets=("CUB_200_2011" "oxford-iiit-pet" "stanford_cars" "fgvc_aircraft")  # datasets to evaluate on
-datasets=("CUB_200_2011")
+datasets=("oxford_flowers")
 
 for dataset in "${datasets[@]}"; do
     for EXP_NAME in "${EXP_NAMES[@]}"; do
