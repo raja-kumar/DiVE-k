@@ -16,8 +16,8 @@ from PIL import Image
 from tqdm import tqdm
 from transformers import AutoModel, AutoTokenizer
 from transformers import (AutoModelForCausalLM, AutoTokenizer,
-                          StoppingCriteria, StoppingCriteriaList,
-                          Gemma3ForConditionalGeneration, Gemma3Processor)
+                          StoppingCriteria, StoppingCriteriaList,)
+                        #   Gemma3ForConditionalGeneration, Gemma3Processor)
 from transformers.generation import GenerationConfig
 from peft import PeftModel
 torch.manual_seed(1234)
