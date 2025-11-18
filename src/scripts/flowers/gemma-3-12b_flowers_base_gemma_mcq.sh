@@ -7,6 +7,7 @@ export DATA_PATH=/data2/raja/oxford_flowers/gemma_mcq/subsample_base_train_pass_
 export CKPT_PATH="google/gemma-3-12b-it"
 export SAVE_PATH=/app/saved_models/vrft/oxford_flowers/gemma-3-12B_GRPO_flowers_base_gemma_mcq
 export RUN_NAME=gemma-3-12B_GRPO_flowers_base_gemma_mcq
+export CHECKPOINT_PATH=/app/saved_models/vrft/oxford_flowers/gemma-3-12B_GRPO_flowers_base_gemma_mcq/checkpoint-200/
 
 torchrun --nproc_per_node="1" \
     --nnodes="1" \
@@ -31,3 +32,4 @@ torchrun --nproc_per_node="1" \
     --deepspeed local_scripts/zero3_offload.json \
     --reward_funcs "format" "mcq" \
     --max_completion_length 1024 \
+    --resume_from_checkpoint ${CHECKPOINT_PATH} \
