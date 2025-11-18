@@ -70,7 +70,7 @@ class TopKGenerator:
                 "temperature": 1.0,
                 "top_p": 0.95,
                 "do_sample": True,
-                "num_return_sequences": 10,
+                "num_return_sequences": 20,
                 "repetition_penalty": 1.1,
                 "use_cache": True,
             }
