@@ -17,8 +17,9 @@ class AccuracyEvaluator:
 
         self.one_answer = one_answer
         self.one_step = one_step
-        self.model = "google/gemini-2.5-flash-lite-preview-06-17" # or "google/gemini-2.5-flash-lite-preview-06-17" for Gemini
-        
+        # self.model = "google/gemini-2.5-flash-lite-preview-06-17" # or "google/gemini-2.5-flash-lite-preview-06-17" for Gemini
+        self.model = "google/gemini-2.5-flash-lite"
+
     def _check_match(self, groundtruth: str, predictions: str):
         """Use LLM to determine if any prediction matches groundtruth."""
 

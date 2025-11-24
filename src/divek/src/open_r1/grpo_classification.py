@@ -24,7 +24,7 @@ from datasets import DatasetDict
 
 from math_verify import parse, verify
 # from open_r1.trainer import Qwen2VLGRPOTrainer
-from open_r1.trainer import Qwen2VLGRPOTrainer, Qwen2VLGRPOVLLMTrainer , Gemma3GRPOTrainer
+from open_r1.trainer import Qwen2VLGRPOTrainer, Qwen2VLGRPOVLLMTrainer #, Gemma3GRPOTrainer
 from trl import GRPOConfig, GRPOTrainer, ModelConfig, ScriptArguments, TrlParser, get_peft_config
 
 import json

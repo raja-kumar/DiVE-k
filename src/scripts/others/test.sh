@@ -5,15 +5,12 @@ export LOG_PATH="./logs/debug_log_test.txt"
 
 export DATA_PATH=/data2/raja/oxford_flowers/fewshot/2_shots_base_train_mcq_dataset
 export HARD_DATA_PATH=/data2/raja/oxford_flowers/zero_shot_mcq/hard_subsample_base_train_dataset
-export CKPT_PATH="Qwen/Qwen2.5-VL-7B-Instruct"
+export CKPT_PATH="Qwen/Qwen2.5-VL-3B-Instruct"
 export SAVE_PATH=/app/saved_models/vrft/ckpts/Qwen2-VL-2B-test
 export RUN_NAME=Qwen2-VL-2B_test
 export CHECKPOINT_PATH=/app/saved_models/vrft/ckpts/Qwen2-VL-2B-test/checkpoint-1/
 
-# --master_addr="127.0.0.1" \
-# --master_port="12345" \
-
-torchrun --nproc_per_node="1" \
+torchrun --nproc_per_node="3" \
     --nnodes="1" \
     --node_rank="0" \
     src/open_r1/grpo_classification.py \
@@ -36,5 +33,3 @@ torchrun --nproc_per_node="1" \
     --num_generations 4 \
     --deepspeed local_scripts/zero3_offload.json \
     --reward_funcs "format" "mcq" \
-    # --use_hard_examples true \
-    # --hard_dataset_name ${HARD_DATA_PATH} \
