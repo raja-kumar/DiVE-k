@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 torch.manual_seed(1234)
 
-from transformers import Qwen2VLForConditionalGeneration, AutoTokenizer, AutoProcessor, Qwen2_5_VLForConditionalGeneration#, Gemma3ForConditionalGeneration
+from transformers import Qwen2VLForConditionalGeneration, AutoTokenizer, AutoProcessor, Qwen2_5_VLForConditionalGeneration, Gemma3ForConditionalGeneration
 from qwen_vl_utils import process_vision_info
 from prompts import PROMPTS
 
