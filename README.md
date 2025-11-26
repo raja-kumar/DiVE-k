@@ -79,7 +79,7 @@ Navigate to the generation directory inside the container and run the script:
 
 ```bash
 cd /app/DiVE-k/topk-mcq-data
-python generate_mcq.py --mcq_type qwen --data <DATASET_NAME> --split base --phase train_mini
+python generate_mcq.py --mcq_type qwen --data <DATASET_NAME> --split base --phase train
 ```
 *(Example usage: `--data CUB_200_2011`)*
 
@@ -87,19 +87,21 @@ python generate_mcq.py --mcq_type qwen --data <DATASET_NAME> --split base --phas
 Convert the generated JSON to a HuggingFace dataset:
 
 ```bash
-python build_hf_dataset.py <data_root>/<dataset_name>/random_mcq/subsample_base_train_mini_mcq.json
+python build_hf_dataset.py <data_root>/<dataset_name>/qwen_mcq/subsample_base_train_qwen_mcq.json
 ```
 
 ## 4. Train GRPO
 
 To train the model:
 
-1. Open `scripts/test.sh`.
+Sample training script:
+
+1. Open `scripts/others/test.sh`.
 2. Modify the variables `DATA_PATH`, `SAVE_PATH`, and `RUN_NAME` to match your specific experiment.
 3. Run the script:
 
 ```bash
-bash scripts/test.sh
+bash scripts/others/test.sh
 ```
 
 ## Evaluation
@@ -128,5 +130,17 @@ Coming soon
 ## Citation
 
 ```
-coming soon
-``` 
+@misc{kumar2025divekdifferentialvisualreasoning,
+      title={DiVE-k: Differential Visual Reasoning for Fine-grained Image Recognition}, 
+      author={Raja Kumar and Arka Sadhu and Ram Nevatia},
+      year={2025},
+      eprint={2511.18305},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.18305}, 
+}
+```
+
+## Attributions
+
+This repo uses code from [Visual-RFT](https://github.com/Liuziyu77/Visual-RFT). We would like to thank the authors for their amazing work.
