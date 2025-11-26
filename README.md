@@ -1,6 +1,6 @@
 # DiVE-k: differential visual reasoning for fine-grained image recognition
 
-we propose **DiVE-k** framework (**Di**fferential **V**isual r**E**asoning using top-**k** generations) that treats base model's top-k generations, obtained via $K$ rollouts, as training primitive that enables differential visual reasoning.
+we propose **DiVE-k** framework (**Di**fferential **V**isual r**E**asoning using top-**k** generations) addressing a key weakness in large vision-language models: their struggle with fine-grained distinctions. Our analysis reveals that simply having world knowledge isn't enough; the model needs to learn how to apply it with precision. **DiVE-k** treats base model's top-k generations, obtained via $K$ rollouts, as training primitive that enables differential visual reasoning.
 
 <div align="center">
   <a href="https://arxiv.org/abs/2511.18305v1">
@@ -9,6 +9,10 @@ we propose **DiVE-k** framework (**Di**fferential **V**isual r**E**asoning using
   <a href="https://github.com/raja-kumar/DiVE-k">
     <img src="https://img.shields.io/badge/Project-Page-blue?style=flat-square" alt="Code">
   </a>
+  <a href="https://www.alphaxiv.org/resources/2511.18305v1">
+    <img src="https://img.shields.io/badge/AI_audio-alphaxiv-green?style=flat-square" alt="Code">
+  </a>
+  
 </div>
 
 ## Example of DiVE-k differential reasoning
