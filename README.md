@@ -3,7 +3,7 @@
 we propose **DiVE-k** framework (**Di**fferential **V**isual r**E**asoning using top-**k** generations) that treats base model's top-k generations, obtained via $K$ rollouts, as training primitive that enables differential visual reasoning.
 
 <div align="center">
-  <a href="">
+  <a href="https://arxiv.org/abs/2511.18305v1">
     <img src="https://img.shields.io/badge/Paper-arXiv-red?style=flat-square" alt="Paper">
   </a>
   <a href="https://github.com/raja-kumar/DiVE-k">
