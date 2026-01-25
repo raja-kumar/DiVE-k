@@ -19,13 +19,9 @@ we propose **DiVE-k** framework (**Di**fferential **V**isual r**E**asoning using
 
 <img src="readme_images/figure1.jpg" alt="Example 1" width="800">
 
-## Data
+## Data and Pretrained Models
 
-Pre-processed data coming soon on Hugging face
-
-## Pretrained Models
-
-Pretrained models coming soon on Hugging Face
+Pre-processed data and Pretrained models will be released at [this hf collection](https://huggingface.co/collections/raja-kumar/dive-k)
 
 ## 1. Installation
 
@@ -128,8 +124,12 @@ One Step Inference
 
 
 ## Inference
+We provide sample inference under demo. modify ```main``` based on your input
 
-Coming soon
+```
+cd demo
+python inference.py
+```
 
 ## Citation
 
