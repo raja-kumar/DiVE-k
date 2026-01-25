@@ -134,14 +134,11 @@ python inference.py
 ## Citation
 
 ```
-@misc{kumar2025divekdifferentialvisualreasoning,
-      title={DiVE-k: Differential Visual Reasoning for Fine-grained Image Recognition}, 
-      author={Raja Kumar and Arka Sadhu and Ram Nevatia},
-      year={2025},
-      eprint={2511.18305},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2511.18305}, 
+@article{kumar2025dive,
+  title={DiVE-k: Differential Visual Reasoning for Fine-grained Image Recognition},
+  author={Kumar, Raja and Sadhu, Arka and Nevatia, Ram},
+  journal={arXiv preprint arXiv:2511.18305},
+  year={2025}
 }
 ```
 
