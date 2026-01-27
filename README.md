@@ -1,4 +1,4 @@
-# DiVE-k: differential visual reasoning for fine-grained image recognition [ICLR 2026]
+# DiVE-k: Differential Visual Reasoning For Fine-Grained Image Recognition [ICLR 2026]
 
 we propose **DiVE-k** framework (**Di**fferential **V**isual r**E**asoning using top-**k** generations) addressing a key weakness in large vision-language models: their struggle with fine-grained distinctions. Our analysis reveals that simply having world knowledge isn't enough; the model needs to learn how to apply it with precision. **DiVE-k** treats base model's top-k generations, obtained via $K$ rollouts, as training primitive that enables differential visual reasoning. 
 
