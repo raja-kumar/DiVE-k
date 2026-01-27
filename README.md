@@ -1,6 +1,6 @@
-# DiVE-k: differential visual reasoning for fine-grained image recognition
+# DiVE-k: differential visual reasoning for fine-grained image recognition [ICLR 2026]
 
-we propose **DiVE-k** framework (**Di**fferential **V**isual r**E**asoning using top-**k** generations) addressing a key weakness in large vision-language models: their struggle with fine-grained distinctions. Our analysis reveals that simply having world knowledge isn't enough; the model needs to learn how to apply it with precision. **DiVE-k** treats base model's top-k generations, obtained via $K$ rollouts, as training primitive that enables differential visual reasoning.
+we propose **DiVE-k** framework (**Di**fferential **V**isual r**E**asoning using top-**k** generations) addressing a key weakness in large vision-language models: their struggle with fine-grained distinctions. Our analysis reveals that simply having world knowledge isn't enough; the model needs to learn how to apply it with precision. **DiVE-k** treats base model's top-k generations, obtained via $K$ rollouts, as training primitive that enables differential visual reasoning. 
 
 <div align="center">
   <a href="https://arxiv.org/abs/2511.18305v1">
@@ -19,9 +19,15 @@ we propose **DiVE-k** framework (**Di**fferential **V**isual r**E**asoning using
 
 <img src="readme_images/figure1.jpg" alt="Example 1" width="800">
 
-## Data and Pretrained Models
+## Data
 
-Pre-processed data and Pretrained models will be released at [this hf collection](https://huggingface.co/collections/raja-kumar/dive-k)
+Please follow [this link](https://github.com/muzairkhattak/PromptSRC/blob/main/docs/DATASETS.md) to prepare the datasets. For CUB, Download the images and annotations from [here](https://www.vision.caltech.edu/datasets/cub_200_2011/).
+
+We also provide pre-processed data at [this hf collection](https://huggingface.co/collections/raja-kumar/dive-k) for QWEN2.5-VL-7B model.
+
+## Pretrained Models
+
+Pretrained models is released at [this hf collection](https://huggingface.co/collections/raja-kumar/dive-k)
 
 ## 1. Installation
 
@@ -70,6 +76,8 @@ Data must be arranged in the following format under your `data_root`:
 ```
 
 ## 3. Generate MCQ
+
+(Note: You can skip this step if you are using our provided MCQ data).
 
 **Step 1: Add Prompts**
 Add or modify your prompts in `prompts.py`.
@@ -121,9 +129,14 @@ One Step Inference
 ./one_step_inference.sh
 ```
 
+After inference is completed, output is saved as a json file. Use LLM eval script to get accuracy
 
+```
+./run_llm_eval.sh
+```
 
 ## Inference
+
 We provide sample inference under demo. modify ```main``` based on your input
 
 ```
