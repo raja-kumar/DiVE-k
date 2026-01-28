@@ -98,7 +98,7 @@ Convert the generated JSON to a HuggingFace dataset:
 python build_hf_dataset.py <data_root>/<dataset_name>/qwen_mcq/subsample_base_train_qwen_mcq.json
 ```
 
-## 4. Train GRPO
+## 4. GRPO training
 
 To train the model:
 
