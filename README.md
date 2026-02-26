@@ -6,7 +6,7 @@ we propose **DiVE-k** framework (**Di**fferential **V**isual r**E**asoning using
   <a href="https://arxiv.org/abs/2511.18305v1">
     <img src="https://img.shields.io/badge/Paper-arXiv-red?style=flat-square" alt="Paper">
   </a>
-  <a href="https://github.com/raja-kumar/DiVE-k">
+  <a href="https://raja-kumar.github.io/projects/dive-k.html">
     <img src="https://img.shields.io/badge/Project-Page-blue?style=flat-square" alt="Code">
   </a>
   <a href="https://www.alphaxiv.org/resources/2511.18305v1">
