@@ -147,11 +147,13 @@ python inference.py
 ## Citation
 
 ```
-@article{kumar2025dive,
-  title={DiVE-k: Differential Visual Reasoning for Fine-grained Image Recognition},
-  author={Kumar, Raja and Sadhu, Arka and Nevatia, Ram},
-  journal={arXiv preprint arXiv:2511.18305},
-  year={2025}
+@inproceedings{
+        kumar2026divek,
+        title={Di{VE}-k: {DIFFERENTIAL} {VISUAL} {REASONING} {FOR} {FINE}-{GRAINED} {IMAGE} {RECOGNITION}},
+        author={Raja Kumar and Arka Sadhu and Ram Nevatia},
+        booktitle={The Fourteenth International Conference on Learning Representations},
+        year={2026},
+        url={https://openreview.net/forum?id=flE6M5zFL6}
 }
 ```
 
