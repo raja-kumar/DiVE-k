@@ -1,0 +1,50 @@
+F-16A/B
+E-170
+Eurofighter Typhoon
+F/A-18
+Tu-154
+Tornado
+DC-8
+Fokker 50
+MD-80
+Il-76
+DHC-6
+Model B200
+DC-6
+Dornier 328
+Global Express
+PA-28
+Metroliner
+DC-10
+Gulfstream IV
+MD-87
+Gulfstream V
+DR-400
+Yak-42
+SR-20
+Tu-134
+Cessna 560
+Fokker 70
+DC-9-30
+DHC-8-100
+L-1011
+DHC-8-300
+DHC-1
+Hawk T1
+Falcon 900
+Embraer Legacy 600
+Falcon 2000
+MD-90
+E-190
+Saab 340
+Spitfire
+E-195
+Challenger 600
+DC-3
+EMB-120
+ERJ 135
+Saab 2000
+MD-11
+DH-82
+ERJ 145
+Fokker 100

@@ -1,0 +1,2002 @@
+[
+    {
+        "image_path": "fgvc_aircraft/images/0610657.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>707-320</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1187431.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>707-320</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0582363.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>707-320</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0951982.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>707-320</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1115308.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>727-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0063052.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>727-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0907359.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>727-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0995286.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>727-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0907429.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1187709.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0523229.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0074464.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1251289.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2080684.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1927313.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0492497.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1532634.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0829999.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2236962.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1102458.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2103080.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-500</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0894220.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-500</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0225225.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-500</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0130599.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-500</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0731199.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0944253.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1730978.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0784350.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0984409.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-700</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2188154.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-700</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1446341.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-700</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1060500.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-700</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2122829.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-800</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1385341.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-800</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0694546.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-800</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0988468.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-800</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0383399.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0476825.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1133077.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1471544.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>737-900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0804670.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-100</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1062969.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-100</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0926105.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-100</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1099245.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-100</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0829998.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0765599.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0448050.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0487370.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0939497.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0522830.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0454746.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2147232.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0442373.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2197330.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0983934.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2222716.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>747-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0218812.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>757-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1356930.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>757-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1527502.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>757-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0184351.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>757-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1564943.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>757-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1256349.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>757-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1156768.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>757-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1298912.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>757-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1383295.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>767-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2183378.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>767-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0958129.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>767-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0866844.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>767-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1018873.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>767-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0788471.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>767-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0362089.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>767-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2217849.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>767-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1546804.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>767-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1027002.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>767-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1607459.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>767-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1165767.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>767-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1456005.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>777-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2075625.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>777-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0469128.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>777-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1870569.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>777-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2035343.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>777-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1418227.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>777-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0123344.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>777-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2044875.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>777-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0361112.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A300B4</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0447940.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A300B4</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0523221.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A300B4</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0185316.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A300B4</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1758544.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A310</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0994754.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A310</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1132271.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A310</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0396589.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A310</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1165189.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A318</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1058491.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A318</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1380336.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A318</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1165384.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A318</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1541378.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A319</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1363952.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A319</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1333717.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A319</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1237633.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A319</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2261957.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A320</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2236969.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A320</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0973290.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A320</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1389257.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A320</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0062131.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A321</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2040683.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A321</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2168926.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A321</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0851313.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A321</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1053428.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A330-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1790500.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A330-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0974301.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A330-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1870658.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A330-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0457177.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A330-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0496970.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A330-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0857160.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A330-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2171767.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A330-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0918184.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0136500.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0066533.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0585327.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0681536.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0175821.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0944221.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1462854.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2044905.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-500</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0885622.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-500</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1046881.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-500</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1469672.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-500</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1567292.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1263090.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1471167.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1218924.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A340-600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2220792.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A380</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1417441.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A380</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1687332.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A380</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2089280.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>A380</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0851153.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ATR-42</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0562558.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ATR-42</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2243949.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ATR-42</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1563459.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ATR-42</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1798654.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ATR-72</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0064891.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ATR-72</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1681022.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ATR-72</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1408802.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ATR-72</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1173947.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>An-12</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0799596.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>An-12</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1270710.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>An-12</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0850835.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>An-12</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1615889.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>BAE 146-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1725762.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>BAE 146-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0922626.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>BAE 146-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1933201.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>BAE 146-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0647819.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>BAE 146-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1313666.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>BAE 146-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1983851.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>BAE 146-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0136162.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>BAE 146-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1600520.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>BAE-125</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0463096.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>BAE-125</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1417777.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>BAE-125</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1714820.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>BAE-125</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0751325.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Beechcraft 1900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1455997.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Beechcraft 1900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1355201.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Beechcraft 1900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1326007.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Beechcraft 1900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2240254.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Boeing 717</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0302019.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Boeing 717</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2171061.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Boeing 717</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1351340.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Boeing 717</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0434345.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>C-130</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1364712.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>C-130</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0962825.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>C-130</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0875344.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>C-130</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1278429.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>C-47</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1255008.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>C-47</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1941127.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>C-47</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1535841.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>C-47</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1616482.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>CRJ-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0523218.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>CRJ-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1355445.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>CRJ-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0313724.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>CRJ-200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2070642.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>CRJ-700</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1189525.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>CRJ-700</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1338551.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>CRJ-700</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0435289.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>CRJ-700</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1275811.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>CRJ-900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1623412.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>CRJ-900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1554751.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>CRJ-900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1377655.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>CRJ-900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0509496.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 172</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2243572.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 172</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2157114.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 172</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1488620.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 172</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0323097.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 208</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1347237.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 208</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1345203.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 208</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1036821.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 208</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1351592.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 525</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1806229.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 525</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1560577.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 525</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0466917.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 525</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0521262.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 560</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1398168.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 560</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1900831.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 560</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0584541.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Cessna 560</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0043892.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Challenger 600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0239592.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Challenger 600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1053532.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Challenger 600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2091949.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Challenger 600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1031474.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-10</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0218850.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-10</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0478314.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-10</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1288663.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-10</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0730802.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-3</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1907013.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-3</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1287591.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-3</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0540048.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-3</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0568994.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-6</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0773019.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-6</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1723103.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-6</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1418871.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-6</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0901456.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-8</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0593168.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-8</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0967847.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-8</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0792200.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-8</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0114430.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-9-30</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0901350.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-9-30</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0996336.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-9-30</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0449728.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DC-9-30</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1451909.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DH-82</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1253432.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DH-82</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1539398.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DH-82</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0984284.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DH-82</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1172147.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-1</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0653292.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-1</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1397217.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-1</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1371730.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-1</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0848059.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-6</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1023007.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-6</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1158572.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-6</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0734769.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-6</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1683145.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-8-100</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0167123.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-8-100</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1043778.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-8-100</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0713740.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-8-100</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1870570.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-8-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0732415.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-8-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0127501.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-8-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1043724.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DHC-8-300</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2259663.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DR-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1365858.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DR-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1150085.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DR-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1222829.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>DR-400</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0673508.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Dornier 328</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0492492.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Dornier 328</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1895014.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Dornier 328</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1092265.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Dornier 328</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1260870.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>E-170</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1315140.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>E-170</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2213540.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>E-170</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1277631.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>E-170</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2259021.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>E-190</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1932450.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>E-190</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2039047.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>E-190</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1258502.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>E-190</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1682041.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>E-195</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1905022.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>E-195</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2239066.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>E-195</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2004590.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>E-195</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0880595.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>EMB-120</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0448054.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>EMB-120</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0097758.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>EMB-120</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0202431.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>EMB-120</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1954835.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ERJ 135</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0227129.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ERJ 135</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1429072.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ERJ 135</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0961756.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ERJ 135</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1782070.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ERJ 145</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0440696.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ERJ 145</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1931060.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ERJ 145</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1468398.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ERJ 145</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1807123.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Embraer Legacy 600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1686428.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Embraer Legacy 600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2123927.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Embraer Legacy 600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1834825.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Embraer Legacy 600</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1254962.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Eurofighter Typhoon</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1981388.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Eurofighter Typhoon</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2185361.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Eurofighter Typhoon</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0877089.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Eurofighter Typhoon</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1364706.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>F-16A/B</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1588718.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>F-16A/B</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1552593.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>F-16A/B</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1588720.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>F-16A/B</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1401767.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>F/A-18</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0896698.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>F/A-18</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1254668.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>F/A-18</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1115087.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>F/A-18</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0547519.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Falcon 2000</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1864276.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Falcon 2000</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2057965.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Falcon 2000</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1154703.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Falcon 2000</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1062012.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Falcon 900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0716336.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Falcon 900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0384439.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Falcon 900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0550418.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Falcon 900</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2243788.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Fokker 100</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1611222.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Fokker 100</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1014414.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Fokker 100</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1115404.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Fokker 100</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1200336.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Fokker 50</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1426513.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Fokker 50</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2253229.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Fokker 50</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1562161.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Fokker 50</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1521758.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Fokker 70</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0525838.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Fokker 70</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1521075.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Fokker 70</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1361692.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Fokker 70</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0782933.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Global Express</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1430003.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Global Express</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2101652.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Global Express</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0864334.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Global Express</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1111016.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Gulfstream IV</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1943356.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Gulfstream IV</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0851156.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Gulfstream IV</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0514738.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Gulfstream IV</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0913940.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Gulfstream V</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1865143.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Gulfstream V</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0517785.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Gulfstream V</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1534376.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Gulfstream V</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0554994.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Hawk T1</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0935016.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Hawk T1</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2018705.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Hawk T1</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1615575.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Hawk T1</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0979868.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Il-76</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0577854.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Il-76</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1008573.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Il-76</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1313042.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Il-76</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0923717.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>L-1011</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0689282.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>L-1011</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1287739.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>L-1011</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0907389.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>L-1011</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1410729.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-11</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1284226.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-11</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0338536.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-11</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1666443.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-11</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0923503.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-80</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0063272.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-80</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0702840.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-80</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1421262.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-80</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0109457.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-87</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1265320.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-87</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1279903.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-87</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0193728.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-87</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1480281.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-90</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1570250.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-90</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1734386.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-90</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0977267.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>MD-90</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0091366.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Metroliner</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1293682.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Metroliner</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1519485.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Metroliner</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0975826.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Metroliner</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1840143.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Model B200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1472109.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Model B200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1605012.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Model B200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1373934.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Model B200</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0748614.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>PA-28</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1303982.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>PA-28</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2186728.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>PA-28</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1906969.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>PA-28</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2061717.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>SR-20</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1747769.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>SR-20</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1605921.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>SR-20</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2160776.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>SR-20</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0451224.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Saab 2000</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0962576.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Saab 2000</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0880559.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Saab 2000</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1312743.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Saab 2000</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0680474.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Saab 340</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1559316.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Saab 340</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1754871.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Saab 340</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1543285.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Saab 340</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0713693.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Spitfire</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/2042721.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Spitfire</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1373249.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Spitfire</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1252832.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Spitfire</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1258555.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Tornado</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1270604.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Tornado</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1767577.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Tornado</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1272849.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Tornado</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1602329.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Tu-134</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1312387.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Tu-134</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0523144.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Tu-134</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0720882.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Tu-134</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0143396.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Tu-154</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0467386.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Tu-154</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1088786.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Tu-154</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1611167.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Tu-154</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1696014.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Yak-42</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/0792373.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Yak-42</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1581695.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Yak-42</answer>"
+    },
+    {
+        "image_path": "fgvc_aircraft/images/1284223.jpg",
+        "problem": " This is an image containing an aircraft. Please identify the model of the aircraft based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>make model</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>Yak-42</answer>"
+    }
+]

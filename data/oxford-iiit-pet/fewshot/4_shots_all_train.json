@@ -1,0 +1,742 @@
+[
+    {
+        "image_path": "oxford-iiit-pet/images/Abyssinian_113.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>abyssinian</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Abyssinian_111.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>abyssinian</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Abyssinian_181.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>abyssinian</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Abyssinian_180.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>abyssinian</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/american_bulldog_168.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>american_bulldog</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/american_bulldog_184.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>american_bulldog</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/american_bulldog_19.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>american_bulldog</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/american_bulldog_142.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>american_bulldog</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/american_pit_bull_terrier_14.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>american_pit_bull_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/american_pit_bull_terrier_172.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>american_pit_bull_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/american_pit_bull_terrier_134.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>american_pit_bull_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/american_pit_bull_terrier_128.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>american_pit_bull_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/basset_hound_170.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>basset_hound</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/basset_hound_103.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>basset_hound</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/basset_hound_164.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>basset_hound</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/basset_hound_100.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>basset_hound</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/beagle_12.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>beagle</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/beagle_168.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>beagle</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/beagle_15.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>beagle</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/beagle_190.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>beagle</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Bengal_103.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>bengal</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Bengal_113.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>bengal</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Bengal_15.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>bengal</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Bengal_145.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>bengal</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Birman_168.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>birman</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Birman_109.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>birman</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Birman_183.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>birman</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Birman_164.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>birman</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Bombay_161.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>bombay</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Bombay_178.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>bombay</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Bombay_119.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>bombay</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Bombay_171.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>bombay</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/boxer_179.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>boxer</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/boxer_107.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>boxer</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/boxer_129.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>boxer</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/boxer_165.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>boxer</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/British_Shorthair_139.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>british_shorthair</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/British_Shorthair_115.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>british_shorthair</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/British_Shorthair_161.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>british_shorthair</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/British_Shorthair_118.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>british_shorthair</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/chihuahua_107.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>chihuahua</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/chihuahua_159.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>chihuahua</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/chihuahua_106.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>chihuahua</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/chihuahua_186.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>chihuahua</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Egyptian_Mau_150.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>egyptian_mau</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Egyptian_Mau_13.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>egyptian_mau</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Egyptian_Mau_128.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>egyptian_mau</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Egyptian_Mau_154.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>egyptian_mau</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/english_cocker_spaniel_186.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>english_cocker_spaniel</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/english_cocker_spaniel_133.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>english_cocker_spaniel</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/english_cocker_spaniel_138.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>english_cocker_spaniel</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/english_cocker_spaniel_170.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>english_cocker_spaniel</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/english_setter_106.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>english_setter</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/english_setter_162.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>english_setter</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/english_setter_100.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>english_setter</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/english_setter_103.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>english_setter</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/german_shorthaired_144.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>german_shorthaired</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/german_shorthaired_152.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>german_shorthaired</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/german_shorthaired_108.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>german_shorthaired</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/german_shorthaired_149.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>german_shorthaired</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/great_pyrenees_114.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>great_pyrenees</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/great_pyrenees_102.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>great_pyrenees</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/great_pyrenees_104.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>great_pyrenees</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/great_pyrenees_183.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>great_pyrenees</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/havanese_161.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>havanese</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/havanese_129.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>havanese</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/havanese_145.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>havanese</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/havanese_168.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>havanese</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/japanese_chin_145.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>japanese_chin</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/japanese_chin_155.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>japanese_chin</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/japanese_chin_149.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>japanese_chin</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/japanese_chin_168.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>japanese_chin</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/keeshond_123.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>keeshond</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/keeshond_145.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>keeshond</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/keeshond_185.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>keeshond</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/keeshond_113.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>keeshond</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/leonberger_116.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>leonberger</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/leonberger_141.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>leonberger</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/leonberger_114.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>leonberger</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/leonberger_10.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>leonberger</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Maine_Coon_16.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>maine_coon</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Maine_Coon_18.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>maine_coon</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Maine_Coon_111.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>maine_coon</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Maine_Coon_186.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>maine_coon</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/miniature_pinscher_169.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>miniature_pinscher</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/miniature_pinscher_136.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>miniature_pinscher</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/miniature_pinscher_174.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>miniature_pinscher</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/miniature_pinscher_155.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>miniature_pinscher</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/newfoundland_172.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>newfoundland</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/newfoundland_168.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>newfoundland</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/newfoundland_189.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>newfoundland</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/newfoundland_140.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>newfoundland</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Persian_140.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>persian</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Persian_126.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>persian</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Persian_195.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>persian</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Persian_164.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>persian</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/pomeranian_177.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>pomeranian</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/pomeranian_116.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>pomeranian</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/pomeranian_184.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>pomeranian</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/pomeranian_117.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>pomeranian</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/pug_104.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>pug</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/pug_168.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>pug</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/pug_159.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>pug</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/pug_178.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>pug</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Ragdoll_155.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ragdoll</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Ragdoll_122.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ragdoll</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Ragdoll_184.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ragdoll</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Ragdoll_107.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>ragdoll</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Russian_Blue_108.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>russian_blue</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Russian_Blue_118.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>russian_blue</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Russian_Blue_147.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>russian_blue</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Russian_Blue_196.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>russian_blue</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/saint_bernard_158.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>saint_bernard</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/saint_bernard_103.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>saint_bernard</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/saint_bernard_176.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>saint_bernard</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/saint_bernard_162.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>saint_bernard</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/samoyed_124.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>samoyed</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/samoyed_151.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>samoyed</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/samoyed_175.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>samoyed</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/samoyed_111.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>samoyed</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/scottish_terrier_108.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>scottish_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/scottish_terrier_12.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>scottish_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/scottish_terrier_173.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>scottish_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/scottish_terrier_131.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>scottish_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/shiba_inu_120.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>shiba_inu</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/shiba_inu_13.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>shiba_inu</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/shiba_inu_131.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>shiba_inu</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/shiba_inu_104.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>shiba_inu</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Siamese_180.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>siamese</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Siamese_184.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>siamese</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Siamese_202.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>siamese</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Siamese_113.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>siamese</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Sphynx_11.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>sphynx</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Sphynx_136.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>sphynx</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Sphynx_196.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>sphynx</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/Sphynx_130.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>sphynx</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/staffordshire_bull_terrier_169.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>staffordshire_bull_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/staffordshire_bull_terrier_127.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>staffordshire_bull_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/staffordshire_bull_terrier_109.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>staffordshire_bull_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/staffordshire_bull_terrier_174.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>staffordshire_bull_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/wheaten_terrier_145.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>wheaten_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/wheaten_terrier_108.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>wheaten_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/wheaten_terrier_143.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>wheaten_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/wheaten_terrier_11.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>wheaten_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/yorkshire_terrier_112.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>yorkshire_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/yorkshire_terrier_110.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>yorkshire_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/yorkshire_terrier_177.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>yorkshire_terrier</answer>"
+    },
+    {
+        "image_path": "oxford-iiit-pet/images/yorkshire_terrier_172.jpg",
+        "problem": " This is an image containing a pet. Please identify the species of the pet based on the image.\nOutput the thinking process in <think> </think> and final answer in <answer> </answer> tags.The output answer format should be as follows:\n<think> ... </think> <answer>species name</answer>\nPlease strictly follow the format.",
+        "solution": "<answer>yorkshire_terrier</answer>"
+    }
+]
