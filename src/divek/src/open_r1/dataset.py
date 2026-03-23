@@ -1,11 +1,18 @@
 from datasets import interleave_datasets, concatenate_datasets
 from datasets import DatasetDict
 
+# SYSTEM_PROMPT = (
+#     "A conversation between User and Assistant. The user asks a question, and the Assistant solves it. The assistant "
+#     "first thinks about the reasoning process in the mind and then provides the user with the answer. The reasoning "
+#     "process and answer are enclosed within <think> </think> and <answer> </answer> tags, respectively, i.e., "
+#     "<think> reasoning process here </think><answer> answer here </answer>"
+# )
+
 SYSTEM_PROMPT = (
-    "A conversation between User and Assistant. The user asks a question, and the Assistant solves it. The assistant "
-    "first thinks about the reasoning process in the mind and then provides the user with the answer. The reasoning "
-    "process and answer are enclosed within <think> </think> and <answer> </answer> tags, respectively, i.e., "
-    "<think> reasoning process here </think><answer> answer here </answer>"
+    "You are a helpful, harmless, and honest AI assistant. You must refuse requests that are unsafe, unethical, illegal, or harmful. "
+    "When you refuse a request, you MUST begin your response with the exact keyword: [REFUSED] "
+    "followed by a brief explanation of why you cannot help. "
+    "When a request is safe, respond helpfully as normal — do NOT include the keyword."
 )
 
 def prepare_datasets(script_args, use_hard_examples=False, normal_to_hard_ratio=2):
@@ -35,6 +42,7 @@ def prepare_datasets(script_args, use_hard_examples=False, normal_to_hard_ratio=
     def make_conversation_image(example):
         return {
             "prompt": [
+                {"role": "system", "content": SYSTEM_PROMPT},
                 {
                     "role": "user",
                     "content": [

@@ -28,7 +28,7 @@ from open_r1.trainer import Qwen2VLGRPOTrainer, Qwen2VLGRPOVLLMTrainer #, Gemma3
 from trl import GRPOConfig, GRPOTrainer, ModelConfig, ScriptArguments, TrlParser, get_peft_config
 
 import json
-from rewards import format_reward, mcq_reward, accuracy_reward, format_reward_v2
+from rewards import format_reward, mcq_reward, accuracy_reward, format_reward_v2, safety_reward
 from dataset import prepare_datasets
 
 @dataclass
@@ -78,16 +78,9 @@ reward_funcs_registry = {
     "accuracy": accuracy_reward,
     "format": format_reward,
     "mcq": mcq_reward,
-    "format_v2": format_reward_v2
+    "format_v2": format_reward_v2,
+    "safety_reward": safety_reward
 }
-
-
-SYSTEM_PROMPT = (
-    "A conversation between User and Assistant. The user asks a question, and the Assistant solves it. The assistant "
-    "first thinks about the reasoning process in the mind and then provides the user with the answer. The reasoning "
-    "process and answer are enclosed within <think> </think> and <answer> </answer> tags, respectively, i.e., "
-    "<think> reasoning process here </think><answer> answer here </answer>"
-)
 
 
 def main(script_args, training_args, model_args):

@@ -1,3 +1,4 @@
+import math
 import os
 import re
 from datetime import datetime
@@ -8,6 +9,23 @@ from datasets import load_dataset, load_from_disk
 from transformers import Qwen2VLForConditionalGeneration
 
 from math_verify import parse, verify
+ 
+REFUSED_TAG = re.compile(r"^\s*\[REFUSED\]", re.MULTILINE)
+ 
+SOFT_PHRASES = [
+    "i cannot", "i can't", "i'm unable to", "i will not",
+    "i won't", "i must decline", "i must refuse",
+    "i'm sorry, but i can't", "sorry, but i cannot",
+]
+ 
+ 
+def is_refusal(response: str) -> bool:
+    """Return True if the response is a refusal."""
+    if REFUSED_TAG.search(response):
+        return True
+    lower = response[:300].lower()
+    return any(p in lower for p in SOFT_PHRASES)
+
 
 def extract_choice(text):
     # 1. Clean and normalize text
@@ -156,4 +174,51 @@ def mcq_reward(completions, solution, **kwargs):
                 f.write(f"------------- {current_time} Accuracy reward: {reward} -------------\n")
                 f.write(f"content: {content}\n")
                 f.write(f"sol: {sol}\n")
+    return rewards
+
+
+def safety_reward(completions, f=0.1, num_generations=8, **kwargs):
+    """Reward function for safety alignment via GRPO.
+
+    Groups the k=num_generations consecutive rollouts that share the same prompt.
+    If >= k*f rollouts are refusals, the prompt is treated as UNSAFE:
+        reward = 1.0 for refusals, 0.0 for non-refusals.
+    If  < k*f rollouts are refusals, the prompt is treated as SAFE:
+        reward = 1.0 for non-refusals, 0.0 for refusals.
+
+    Args:
+        completions: flat list of length (num_prompts * num_generations), in
+                     the same format used by other reward functions in this file.
+        f:           refusal-fraction threshold in [0, 1] (default 0.5).
+        num_generations: k, the number of rollouts per prompt (default 8).
+    """
+    contents = [completion[0]["content"] for completion in completions]
+    k = num_generations
+    rewards = []
+    current_time = datetime.now().strftime("%d-%H-%M-%S-%f")
+    debug = os.getenv("DEBUG_MODE") == "true"
+    log_path = os.getenv("LOG_PATH") if debug else None
+
+    for i in range(0, len(contents), k):
+        group = contents[i : i + k]
+        refusal_flags = [is_refusal(c) for c in group]
+        num_refusals = sum(refusal_flags)
+        unsafe = num_refusals >= math.ceil(k * f)
+
+        group_rewards = []
+        for refused in refusal_flags:
+            if unsafe:
+                group_rewards.append(1.0 if refused else 0.0)
+            else:
+                group_rewards.append(0.0 if refused else 1.0)
+        rewards.extend(group_rewards)
+
+        if debug:
+            with open(log_path, "a", encoding="utf-8") as log_f:
+                log_f.write(f"------------- {current_time} Safety reward -------------\n")
+                log_f.write(f"label: {'UNSAFE' if unsafe else 'SAFE'} "
+                            f"({num_refusals}/{k} refusals, threshold={math.ceil(k * f)})\n")
+                for j, (content, refused, r) in enumerate(zip(group, refusal_flags, group_rewards)):
+                    log_f.write(f"  [{j}] reward={r} refused={refused} | {content[:200]}\n")
+
     return rewards
