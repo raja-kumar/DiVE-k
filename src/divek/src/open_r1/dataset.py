@@ -42,7 +42,7 @@ def prepare_datasets(script_args, use_hard_examples=False, normal_to_hard_ratio=
     def make_conversation_image(example):
         return {
             "prompt": [
-                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "system", "content": [{"type": "text", "text": SYSTEM_PROMPT}]},
                 {
                     "role": "user",
                     "content": [
