@@ -1,4 +1,4 @@
-cd /app/Visual-RFT/src/virft/
+cd /app/DiVE-k/src/divek/
 
 export DEBUG_MODE="true"
 export LOG_PATH="./logs/debug_log_Qwen2_5-VL-7B-aircraft_base_qwen_mcq.txt"

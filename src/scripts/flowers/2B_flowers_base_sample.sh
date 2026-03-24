@@ -1,4 +1,4 @@
-cd /app/Visual-RFT/src/virft/
+cd /app/DiVE-k/src/divek/
 
 export DEBUG_MODE="true"
 export LOG_PATH="./logs/debug_log_2b_GRPO_flowers_base_sample.txt"
