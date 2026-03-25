@@ -1,4 +1,4 @@
-cd /app/Visual-RFT/src/virft/
+cd /app/DiVE-k/src/divek/
 
 export DEBUG_MODE="true"
 export LOG_PATH="./logs/debug_log_gemma-3-4B-flower_base_gemma_mcq.txt"
