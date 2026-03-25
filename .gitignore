@@ -4,3 +4,4 @@ output/
 eval/output
 eval/__pycache__/
 src/scripts_backup/
+eval/eval_data/
