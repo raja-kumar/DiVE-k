@@ -177,7 +177,7 @@ def mcq_reward(completions, solution, **kwargs):
     return rewards
 
 
-def safety_reward(completions, f=0.1, num_generations=8, **kwargs):
+def safety_reward(completions, f=0.5, **kwargs):
     """Reward function for safety alignment via GRPO.
 
     Groups the k=num_generations consecutive rollouts that share the same prompt.
@@ -193,7 +193,7 @@ def safety_reward(completions, f=0.1, num_generations=8, **kwargs):
         num_generations: k, the number of rollouts per prompt (default 8).
     """
     contents = [completion[0]["content"] for completion in completions]
-    k = num_generations
+    k = len(contents)
     rewards = []
     current_time = datetime.now().strftime("%d-%H-%M-%S-%f")
     debug = os.getenv("DEBUG_MODE") == "true"

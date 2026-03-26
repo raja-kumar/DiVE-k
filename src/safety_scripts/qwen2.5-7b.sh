@@ -1,12 +1,12 @@
 cd /app/DiVE-k/src/divek/
 
 export DEBUG_MODE="true"
-export LOG_PATH="./logs/debug_log_Qwen2_5-VL-7B-mm-safety.txt"
+export LOG_PATH="./logs/debug_log_Qwen2_5-VL-7B-mm-safety-f0.5.txt"
 
 export DATA_PATH=/data2/raja/VLM_safety/mm_safety_combined_align_data
 export CKPT_PATH="Qwen/Qwen2.5-VL-7B-Instruct"
-export SAVE_PATH=/data2/raja/VLM_safety//Qwen2_5-VL-7B-Instruct_GRPO_mm-safety
-export RUN_NAME=Qwen2_5-VL-7B-Instruct_GRPO_mm-safety
+export SAVE_PATH=/data2/raja/VLM_safety//Qwen2_5-VL-7B-Instruct_GRPO_mm-safety-f0.5
+export RUN_NAME=Qwen2_5-VL-7B-Instruct_GRPO_mm-safety-f0.5
 # export CHECKPOINT_PATH=/app/saved_models/vrft/ckpts/Qwen2_5-VL-7B-Instruct_GRPO_flowers_base_qwen_mcq/checkpoint-200/
 
 # --master_addr="127.0.0.1" \
