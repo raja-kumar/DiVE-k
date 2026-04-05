@@ -29,7 +29,7 @@ for dataset in "${datasets[@]}"; do
     for EXP_NAME in "${EXP_NAMES[@]}"; do
         for split in "${splits[@]}"; do
             for use_cat_list in "${use_cat_lists[@]}"; do
-                python classification_inference.py \
+                python one_step_inference.py \
                     --model_root "$MODEL_ROOT" \
                     --base_model "$BASE_MODEL" \
                     --exp_name "$EXP_NAME" \
